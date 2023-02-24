@@ -441,7 +441,7 @@ function Projects(props) {
             <form
               target="_blank"
               method="GET"
-              action="https://inventory-application-production-3ca3.up.railway.app/"
+              action="https://inventory-application-6lsp.onrender.com/"
             >
               <button className="jumbotron-button">Live Demo</button>
             </form>
@@ -538,7 +538,7 @@ function Projects(props) {
             <form
               target="_blank"
               method="GET"
-              action="https://members-only-production-e198.up.railway.app/"
+              action="https://members-only-u9je.onrender.com/"
             >
               <button className="jumbotron-button">Live Demo</button>
             </form>
